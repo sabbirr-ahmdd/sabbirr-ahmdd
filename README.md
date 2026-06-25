@@ -22,3 +22,5 @@ No missed leads. No lost opportunities.
 - LinkedIn: [linkedin.com/in/sabbirr-ahmdd](https://www.linkedin.com/in/sabbirr-ahmdd)
 - X: [x.com/sabbirr_ahmdd](https://x.com/sabbirr_ahmdd)
 - Medium: [medium.com/@sabbirr_ahmdd](https://medium.com/@sabbirr_ahmdd)
+- GitHub: [github.com/sabbirr-ahmdd](https://github.com/sabbirr-ahmdd)
+- Crunchbase: [Orviton](https://www.crunchbase.com/organization/orviton)
