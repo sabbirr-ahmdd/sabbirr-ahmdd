@@ -67,4 +67,3 @@ This is the foundation for what's next.
 - Reddit: [reddit.com/user/sabbirr_ahmdd](https://www.reddit.com/user/sabbirr_ahmdd)
 - GitHub: [github.com/sabbirr-ahmdd](https://github.com/sabbirr-ahmdd)
 - Crunchbase: [Orviton](https://www.crunchbase.com/organization/orviton)
-- 
